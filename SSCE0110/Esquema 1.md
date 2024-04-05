@@ -60,11 +60,11 @@
 - Perfil formativo
 
 
-## Objetivos
+# Objetivos
 
 - Enunciados que describen las conductas que el alumnado tiene que ser capaz de llevar a cabo al finalizar su formación.
 
-### Carácterísticas
+## Carácterísticas
 
 - Significativos y relevantes
 - Precisos
@@ -72,7 +72,7 @@
 - Alcanzables y realistas
 - Observables y medibles
 
-### Clasificación
+## Clasificación
 
 - Nivel de concreción
     - Generales     : se formulan de forma ámplia
@@ -86,7 +86,7 @@
     - Afectivos     : actitudes y hábitos
     - Psicomotores  : destrezas o habilidades motoras, manipulación, manejo de máquinas,...
 
-### Formulación
+## Formulación
 
  - concreta y precissa
  - infinitivo + objeto o contenido + finalidad
@@ -95,3 +95,19 @@
 >   - "Competencia general" es el objetivo general para la actividad formativa
 >   - Cada módulo tiene sus objetivos específicos, que son los C (C1, C2,...)
 
+# Contenidos
+
+## Tipos
+
+- Conceptuales o teóricos: se corresponden con el saber o saber qué
+- Procedimentales o prácticos: elevado componente de practicidad
+- Actitudinales o profesionalizadores: valores normas y actitudes
+
+
+## Selección
+
+- *Objetivos*
+- *Destinatarios*
+- *Modalidad de impartición*
+    - On-line
+    - Presencial
