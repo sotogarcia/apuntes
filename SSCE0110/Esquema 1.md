@@ -111,3 +111,56 @@
 - **Modalidad de impartición**
     - On-line
     - Presencial
+
+## Secuenciación
+
+### Recomendaciones
+
+- Integrar los relacionados entre sí
+- De más conocidos a menos conocidos
+- Partir de ideas previas del alumnado
+- De más fácil a más difícil
+
+### Tipología
+
+- Conceptuales
+- Prácticos
+- Profesionalizadores
+
+### Modalidad
+
+- Presencial
+- On-line
+
+## Normas de redacción y estilo
+
+...
+
+# Metodología
+
+- Conjunto de procedimientos didácticos a seguir para consecución de los objetivos propuestos
+
+## Métodos didácticos
+
+- Organización racional de procedimientos y técnicas de enseñanza, con el objetivo...
+
+- **Según la forma de razonamiento**
+    - **Deductivo**: se presentan conceptos, principios, teorías... se extraen conclusiones
+    - **Inductivo**: se parte de casos concretos para alcanzar generalidades
+- **Grado de participación del alumnado**
+    - Pasivos o afirmativos
+        - Expositivo
+        - Demostrativo
+    - Activos por elaboración
+        - Interrogativo
+        - Por descubrimiento
+        - Tutorial
+
+## Técnicas
+
+- **Lección magistral**: Exposición teórica por parte del docente para transmitir conocimientos a un amplio grupo de estudiantes.
+- **Simulación**: Réplica de situaciones reales en un entorno controlado para practicar habilidades o tomar decisiones.
+- **Resolución de problemas**: Método que implica identificar, analizar y encontrar soluciones a situaciones complejas de forma práctica.
+- **Estudio de casos**: Análisis detallado de situaciones reales o hipotéticas para desarrollar habilidades de pensamiento crítico y toma de decisiones.
+- **Proyecto**: Tarea o conjunto de tareas con objetivos específicos que los estudiantes deben completar, aplicando conocimientos y habilidades en un contexto práctico.
+
