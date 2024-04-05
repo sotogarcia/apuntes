@@ -1,0 +1,33 @@
++ Sistema Nacional de las Cualificaciones: 
+    - Catalogo Nacional de Cualificaciones
+	· Subsistema de Formación Profesional Reglada
+	· Subsistema de la Formación Profesional para el Empleo
+	· Programas formativos: estructura del programa
+	· Proyectos formativos en la formación en alternancia con el empleo
+
+
+## Unidades de competencia
+
+  - Saber (conocimientos)
+  - Saber hacer (habilidades, destrezas)
+  - Saber ser (actitudes)
+  - Querer hacer (motivación)
+  - Poder hacer (aptitud profesional y medios)
+
+XXXX_3 significa que es de nivel 3
+
+Nivel 3	: Bachiller, Acceso a ciclo, Nivel 2 o 3 de la misma familia.
+
+
+CP	Certificado de profesionalidad
+CNCP	Catálogo Nacional de Cualificaciones Profesionales
+UC	Unidad de Competencia 
+MF	Módulo Formativo 
+	C	Capacidades
+	CE	Criterios de evaluación
+		Contenidos
+
+UF	Unidad Formativa 
+RP	Realizaciones Profesionales
+	CR	Criterios de Realización
+
