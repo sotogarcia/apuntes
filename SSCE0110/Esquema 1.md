@@ -10,8 +10,8 @@
 
 ### Tipos
 
-- Competencia profesional   : aptitud misma labor en diferentes contextos
-- Competencia laboral       : conocimientos, habilidades, destrezas y actitudes para un puesto determinado.
+- **Competencia profesional**   : aptitud misma labor en diferentes contextos
+- **Competencia laboral**      : conocimientos, habilidades, destrezas y actitudes para un puesto determinado.
 
 # Programación de acciones formativas
 
@@ -24,9 +24,9 @@
 
 ### Elementos integrales
 
-- Qué enseñar   : objetivos y contenidos
-- Cómo enseñar  : metodología y actividades
-- Cuánto enseñar: temporización
+- **Qué enseñar**   : objetivos y contenidos
+- **Cómo enseñar**  : metodología y actividades
+- **Cuánto enseñar**: temporización
 - Qué, cómo y cuándo evaluar: evaluación
 
 ### Carácterísticas
@@ -43,8 +43,8 @@
 
 ### Título
 
-- Certificados o programa formativo : basta citar el nombre
-- Acciones diseñadas a medida       : requiere descripción básica
+- **Certificados o programa formativo** : basta citar el nombre
+- **Acciones diseñadas a medida**      : requiere descripción básica
 
 ### Justificacion
 
@@ -74,14 +74,14 @@
 
 ## Clasificación
 
-- Nivel de concreción
+- **Nivel de concreción**:
     - Generales     : se formulan de forma ámplia
     - Específicos   : situación concreta  alcanzable a corto plazo. Deriban de los generales.
         - Conceptuales      (saber qué)
         - Procedimentales   (saber hacer)
         - Actitudinales     (saber ser/estar)
     - Operativos    : observables y medibles
-- Nivel en el que expresan la conducta
+- **Nivel en el que expresan la conducta**:
     - Cognitivos    : conocimientos, destrezas o habilidades carácter intelectual
     - Afectivos     : actitudes y hábitos
     - Psicomotores  : destrezas o habilidades motoras, manipulación, manejo de máquinas,...
@@ -99,15 +99,15 @@
 
 ## Tipos
 
-- Conceptuales o teóricos: se corresponden con el saber o saber qué
-- Procedimentales o prácticos: elevado componente de practicidad
-- Actitudinales o profesionalizadores: valores normas y actitudes
+- **Conceptuales o teóricos**: se corresponden con el saber o saber qué
+- **Procedimentales o prácticos**: elevado componente de practicidad
+- **Actitudinales o profesionalizadores**: valores normas y actitudes
 
 
 ## Selección
 
-- *Objetivos*
-- *Destinatarios*
-- *Modalidad de impartición*
+- **Objetivos**
+- **Destinatarios**
+- **Modalidad de impartición**
     - On-line
     - Presencial
