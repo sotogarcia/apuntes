@@ -342,3 +342,13 @@ Puedes asignar **pesos a ciertas competencias individuales**
 
 # Temporización diaria
 
+## Esquema
+
+- Objetivos: Específicos del módulo
+- Contenidos
+    - Conceptuales
+    - Procedimentales
+    - Actitudinales
+    - Recursos
+- Metodología
+- Actividades
