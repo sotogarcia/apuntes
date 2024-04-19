@@ -48,7 +48,8 @@ Las juntas vecinales son grupos de residentes que se reúnen para discutir probl
 ##### Peticiones
 
 Las peticiones son una forma en que las personas pueden mostrar su apoyo a una causa o problema en particular. Las peticiones con un gran número de firmas pueden llamar la atención de los funcionarios del gobierno y llevar a la acción.
-![Vídeo de recogida de firmas](https://www.tiktok.com/@iustitiaeuropa/video/7359529478277696800?q=recogida%20de%20firmas&t=1713550375585)
+
+[Vídeo de recogida de firmas](https://www.tiktok.com/@iustitiaeuropa/video/7359529478277696800?q=recogida%20de%20firmas&t=1713550375585)
 > Fuente: [TikTok - iustitiaeuropa](https://www.tiktok.com/@iustitiaeuropa)
 
 #### Ejemplos nacionales:
