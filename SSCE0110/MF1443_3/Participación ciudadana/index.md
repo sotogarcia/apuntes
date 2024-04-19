@@ -29,22 +29,29 @@ Incluye aspectos como la votación, asistir a reuniones, participar en foros pú
 
 La forma en que las decisiones pasan de la comunidad al gobierno y viceversa varía según el país y el sistema político. Sin embargo, existen algunos elementos comunes que se pueden observar en la mayoría de los casos.
 
-Ejemplos locales:
+#### Ejemplos locales:
 
-### Reuniones comunitarias
+##### Reuniones comunitarias
 
 Las reuniones comunitarias son una forma común en que los residentes pueden expresar sus opiniones y preocupaciones a los funcionarios del gobierno local. Los funcionarios pueden utilizar esta información para tomar decisiones que afecten a la comunidad.
 
 ![Guía de Seguridad Ciudadana se socializa en reuniones comunitarias](img01.png)
 > Fuente: www.ministeriodegobierno.gob.ec
 
-Juntas vecinales: Las juntas vecinales son grupos de residentes que se reúnen para discutir problemas locales y trabajar juntos para encontrar soluciones. Las juntas vecinales pueden luego llevar sus preocupaciones a los funcionarios del gobierno local.
-Imagen de Juntas vecinalesSe abre en una ventana nueva
-afadministradores.com
-Peticiones: Las peticiones son una forma en que las personas pueden mostrar su apoyo a una causa o problema en particular. Las peticiones con un gran número de firmas pueden llamar la atención de los funcionarios del gobierno y llevar a la acción.
+##### Juntas vecinales
+
+Las juntas vecinales son grupos de residentes que se reúnen para discutir problemas locales y trabajar juntos para encontrar soluciones. Las juntas vecinales pueden luego llevar sus preocupaciones a los funcionarios del gobierno local.
+
+![Junta vecinal a pie de calle](img02.jpg)
+> Fuente: afadministradores.com
+
+##### Peticiones
+
+Las peticiones son una forma en que las personas pueden mostrar su apoyo a una causa o problema en particular. Las peticiones con un gran número de firmas pueden llamar la atención de los funcionarios del gobierno y llevar a la acción.
 Imagen de PeticionesSe abre en una ventana nueva
 es.slideshare.net
-Ejemplos nacionales:
+
+#### Ejemplos nacionales:
 
 Elecciones: Las elecciones son una forma en que las personas pueden elegir a los representantes que tomarán decisiones en su nombre. Los votantes pueden elegir candidatos que compartan sus valores y prioridades.
 Imagen de EleccionesSe abre en una ventana nueva
