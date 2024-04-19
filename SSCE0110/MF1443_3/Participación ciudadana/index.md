@@ -36,20 +36,20 @@ La forma en que las decisiones pasan de la comunidad al gobierno y viceversa var
 Las reuniones comunitarias son una forma común en que los residentes pueden expresar sus opiniones y preocupaciones a los funcionarios del gobierno local. Los funcionarios pueden utilizar esta información para tomar decisiones que afecten a la comunidad.
 
 ![Guía de Seguridad Ciudadana se socializa en reuniones comunitarias](img01.png)
-> Fuente: www.ministeriodegobierno.gob.ec
+> Fuente: [www.ministeriodegobierno.gob.ec](https://www.ministeriodegobierno.gob.ec/guia-de-seguridad-ciudadana-se-socializa-en-reuniones-comunitarias/)
 
 ##### Juntas vecinales
 
 Las juntas vecinales son grupos de residentes que se reúnen para discutir problemas locales y trabajar juntos para encontrar soluciones. Las juntas vecinales pueden luego llevar sus preocupaciones a los funcionarios del gobierno local.
 
 ![Junta vecinal a pie de calle](img02.jpg)
-> Fuente: afadministradores.com
+> Fuente: [afadministradores.com](https://afadministradores.com/juntas-vecinales-y-junta-extraordinaria/)
 
 ##### Peticiones
 
 Las peticiones son una forma en que las personas pueden mostrar su apoyo a una causa o problema en particular. Las peticiones con un gran número de firmas pueden llamar la atención de los funcionarios del gobierno y llevar a la acción.
-Imagen de PeticionesSe abre en una ventana nueva
-es.slideshare.net
+![Vídeo de recogida de firmas](https://www.tiktok.com/@iustitiaeuropa/video/7359529478277696800?q=recogida%20de%20firmas&t=1713550375585)
+> Fuente: [TikTok - iustitiaeuropa](https://www.tiktok.com/@iustitiaeuropa)
 
 #### Ejemplos nacionales:
 
